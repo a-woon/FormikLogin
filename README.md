@@ -15,8 +15,6 @@ MIT Assignment for the Formik Login Component excercise
 
 * Demonstration of validatoin...
 
-<p align="left"><img src=".\app-example.png" width="512" title="Login Validation..."></p>
-
 
 ## License
 
